@@ -1,0 +1,16 @@
+/* pages/Login/login.wxss */
+.signIn__Btn {
+background-color: #61B0D7;
+margin-left: 30px;
+margin-right: 30px;
+color: #fff;
+height: 45px;
+text-align: center;
+font-size: 18px;
+}
+
+.section-login{
+background: #fff;
+margin-left: 30px;
+margin-right: 30px;
+}

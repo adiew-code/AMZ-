@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/Login/login",
+    "pages/main-tabbar/products/products",
+    "pages/main-tabbar/account/account",
+    "pages/main-tabbar/promotion/promotion"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/main-tabbar/products/products",
+        "text": "产品"
+      },
+      {
+        "pagePath": "pages/main-tabbar/promotion/promotion",
+        "text": "促销"
+      },
+      {
+        "pagePath": "pages/main-tabbar/account/account",
+        "text": "账户"
+      }
+    ],
+    "selectedColor": "green",
+    "borderStyle": "white",
+    "backgroundColor": "#61B0D7",
+    "color": "#FFFF"
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFFF",
+    "navigationBarTitleText": "AMZSharp",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#A000"
+  },
+  "debug": true
+}

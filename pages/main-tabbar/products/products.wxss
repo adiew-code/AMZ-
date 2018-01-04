@@ -1,0 +1,4 @@
+/* pages/main-tabbar/products/products.wxss */
+.bkViewClass{
+  background-color: red;
+}
