@@ -66,7 +66,7 @@ Page({
 
   formSubmit: function () {
 
-      
+     /*
     wx.request({
       url:'signIn', //仅为示例，并非真实的接口地址
       data: {
@@ -79,10 +79,10 @@ Page({
       success: function (res) {
         console.log(res.data)
       }
-    })
-/*
+    })*/
+
     wx.switchTab({
       url: '../main-tabbar/products/products'
-    })*/
+    })
   }
 })
