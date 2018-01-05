@@ -1,6 +1,7 @@
-<form class='form-bk' bindsubmit="formSubmit">
+<view class='container'>
+  <form  bindsubmit="formSubmit">
 
-  <view class="section-login">
+  <view class="section-login section-email">
     <view class="section__title">input</view>
     <input name="input" placeholder="Email" />
   </view>
@@ -13,4 +14,6 @@
   <view class="btn-area">
     <button class="signIn__Btn" formType="submit">Sign In</button>
   </view>
-</form>
+ </form>
+</view>
+
